@@ -1,0 +1,14 @@
+{
+  "name": "kattis-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "problem-a": "node ./Easy-problem-a.js",
+    "problem-b": "node ./Medium-problem-b.js",
+    "problem-c": "node ./Medium-problem-c.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
